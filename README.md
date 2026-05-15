@@ -1,16 +1,37 @@
-## Hi there 👋
+## ygmsec
 
-<!--
-**YGMsec/ygmsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First Project
+* **Fstab Protection Tool** - A utility written in C designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human error, unexpected update behaviors...)
 
-Here are some ideas to get you started:
+### Current Project
+* **Log Analyzer in C** - A low-level log parser designed to monitor and flag anomalies in system behavior.
+* *Also programming experimental utilities to learn how `fork()` works in Unix environments, with the ultimate goal of writing my own background daemons.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+* Linux Internals & Kernel Concepts
+* C Programming
+* Ethical Hacking & Cybersecurity Foundations
+
+### Programming Languages & Scripting
+* **C** (Core language)
+* **Bash** (Basic scripting for automation)
+* **Python** (Basic foundations)
+
+### Reading List 
+
+#### Currently Reading
+* 📖 *The C Programming Language* — Brian W. Kernighan & Dennis M. Ritchie
+* 📖 *How Linux Works* — Brian Ward
+
+#### Essential Backlog
+* 🎯 *Computer Systems: A Programmer's Perspective* (CS:APP) — Randal E. Bryant & David R. O'Hallaron
+* 🎯 *The Linux Programming Interface* — Michael Kerrisk
+* 🎯 *The Web Application Hacker's Handbook* — Dafydd Stuttard & Marcus Pinto
+* 🎯 *TCP/IP Illustrated, Volume 1: The Protocols* — Kevin R. Fall & W. Richard Stevens
+
+
+### Pioneers & Researchers I Like
+* **Dennis Ritchie**
+* **PortSwigger Security Research Team**
+* **Rana Khalil**
+
