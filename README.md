@@ -5,7 +5,7 @@
 
 ### Current Project
 * **Log Analyzer in C** - A low-level log parser designed to monitor and flag anomalies in system behavior.
-* *Also programming experimental utilities to learn how `fork()` works in Unix environments, with the ultimate goal of writing my own background daemons.*
+* *Also building experimental tools to learn how fork() manages Unix processes, with the goal of writing my own background daemons out of technical curiosity.*
 
 ### Currently Learning
 * Linux Internals & Kernel Concepts
